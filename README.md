@@ -1,11 +1,5 @@
 # 🟦 Neon Escape
 
-<p align="center">
-  <img src="https://shields.io" alt="Python Version">
-  <img src="https://shields.io" alt="Pygame">
-  <img src="https://shields.io" alt="MIT License">
-</p>
-
 
 ---
 
