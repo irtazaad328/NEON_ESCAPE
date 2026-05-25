@@ -19,11 +19,11 @@ A fast-paced, neon-drenched arcade survival game. Pilot your ship through three 
 > [!NOTE]
 > Each phase introduces entirely new mechanics. Survival requires split-second adaptation.
 
-- **Phase 1: Speed Survival**  
+* **Phase 1: Speed Survival**  
   ⚡ *The Warmup.* Projectiles start slow but aggressively ramp up in speed over time.
-- **Phase 2: Constriction**  
+* **Phase 2: Constriction**  
   🧱 *The Squeeze.* The boundary walls actively close in on you. Survive the claustrophobic pressure.
-- **Phase 3: Final Assault**  
+* **Phase 3: Final Assault**  
   🔥 *The Payback.* The shields are down. Arm your weapons, shoot back, and blast your way to freedom.
 
 ---
